@@ -1,0 +1,22 @@
+{
+	"Chicago": {
+		"location": "Located on the shores of freshwater Lake Michigan",
+		"population": "the third most populous city in the United States"
+	},
+	"NewYork": {
+		"location": "Located at the southern tip of the state of New York",
+		"population": "the most populous city in the United States"
+	},
+	"Hangzhou": {
+		"location": "Sits at the head of Hangzhou Bay, which separates Shanghai and Ningbo",
+		"population": "the twentieth most populous city in China"
+	},
+	"Shanghai": {
+		"location": "Located in the Yangtze River Delta, it sits on the south edge of the estuary of the Yangtze in the middle portion of the East China coast",
+		"population": "the largest city in China by population"
+	},
+	"Moscow": {
+		"location": "Situated on the banks of the Moskva River, which flows for just over 500 km (311 mi) through the East European Plain in central Russia",
+		"population": "the most populous city of Russia"
+	}
+}
